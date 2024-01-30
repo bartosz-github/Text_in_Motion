@@ -2,7 +2,15 @@
     font-family: sans-serif;
     margin: 0;
     padding: 0;
-    
+
+}
+
+.outer-headings {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
